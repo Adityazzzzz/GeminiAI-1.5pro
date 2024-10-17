@@ -1,3 +1,5 @@
+
+
 # REACT Based GEMINI MODEL<br>
 
 Use can clone it and use it for youself.<br>
@@ -11,4 +13,6 @@ cd GeminiAI-1.5pro<br>
 npm run dev <br>
 
 prerequisites:
-Generate your Gemini API KEY
+Generate your Gemini API K
+
+Deploy link https://lovely-syrniki-9124fe.netlify.app/
